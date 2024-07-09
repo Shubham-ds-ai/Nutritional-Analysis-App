@@ -1,2 +1,2 @@
 # Nutritional-Analysis-App
-Using Gemini API , this app is build which can analyze the nutritional value of a meal image uploaded on the streamlit app interface
+Developed a Streamlit application utilizing Google’s generative AI to provide real-time, image-based nutritional analysis. It enhanced user engagement with automated caloric and macronutrient breakdowns.
